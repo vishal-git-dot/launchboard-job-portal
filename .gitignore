@@ -1,0 +1,4 @@
+/uploads/resumes/*
+!/uploads/resumes/.htaccess
+.DS_Store
+.env
